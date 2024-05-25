@@ -44,12 +44,12 @@
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "HRKU-06818902-22a2-44c5-b22d-ab3cbcccb609",
+        "value": "HRKU-3d7d7f18-527f-44b9-b150-6ed19a92bf9b",
         "required": false
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "anishmusic76bot",
+        "value": "anishmusic76",
         "required": false
       },
       "LOGGER_ID": {
