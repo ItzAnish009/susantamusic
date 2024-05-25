@@ -1,4 +1,4 @@
-import re
+uimport re
 from os import getenv
 
 from dotenv import load_dotenv
@@ -67,8 +67,8 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1900000000))
 
 
 # Get your pyrogram v2 session from @Venom_string_robot on Telegram
-STRING1 = getenv("STRING_SESSION", "BQGOYU0AwaXCdZipm6rM-2nndkGoFYc4pWyNMUXwfwi49sTDix798rpMSY6cfq_LfuTKyNqDDirrqqto24HqG_o6lA4eP_pgbGhzpbLzcWNL4hu3Ys4XSCN1CDKuAQKitARcV_NUyFEj_9cEGdlVuMaz-_DWGhlRKnFSeKOCbg3-oo6u3SICE87AQg1E8vbhrOnwEab572ExRowlQEaHD7T_LZTwIEFvELdCCFntO_tUkOXu_uCrNi_kMsXp5cfzWI-tbWuzsFRxpS1NqyRbHwsg6AiJKdcLYq9A0E5nDE8IyYGeOkaaok1_pzPrISxNRtqF_QNhUgQtwkeLLhCOfxLDBwo4DgAAAAGUbHYOAA")
-STRING2 = getenv("STRING_SESSION2", None)
+STRING1 = getenv("STRING_SESSION", None)
+STRING2 = getenv("STRING_SESSION2", "BQGOYU0AwaXCdZipm6rM-2nndkGoFYc4pWyNMUXwfwi49sTDix798rpMSY6cfq_LfuTKyNqDDirrqqto24HqG_o6lA4eP_pgbGhzpbLzcWNL4hu3Ys4XSCN1CDKuAQKitARcV_NUyFEj_9cEGdlVuMaz-_DWGhlRKnFSeKOCbg3-oo6u3SICE87AQg1E8vbhrOnwEab572ExRowlQEaHD7T_LZTwIEFvELdCCFntO_tUkOXu_uCrNi_kMsXp5cfzWI-tbWuzsFRxpS1NqyRbHwsg6AiJKdcLYq9A0E5nDE8IyYGeOkaaok1_pzPrISxNRtqF_QNhUgQtwkeLLhCOfxLDBwo4DgAAAAGUbHYOAA")
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
